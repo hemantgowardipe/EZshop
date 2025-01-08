@@ -1,4 +1,4 @@
-**Overview :**
+**Overview :**  <br>
 This is a fully functional e-commerce website built using PHP, MySQL, and Bootstrap. The project offers core e-commerce functionalities, including a dynamic product grid, user authentication, and a comprehensive admin panel for managing products and orders. It's designed to provide a seamless shopping experience with a responsive and clean UI.
 ---
 **Features :**
